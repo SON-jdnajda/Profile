@@ -119,4 +119,4 @@ I am a developer passionate about building practical, scalable, and user-friendl
 
 ## 👀 Profile Views
 
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blueviolet\&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blueviolet\&style=for-the-badge)](https://github.com/SON-jdnajda)
