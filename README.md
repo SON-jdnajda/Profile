@@ -109,14 +109,14 @@ I am a developer passionate about building practical, scalable, and user-friendl
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SON-jdnajda\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=false)
+![](https://streak-stats.demolab.com?user=SON-jdnajda\&theme=tokyonight\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SON-jdnajda\&theme=tokyonight\&hide_border=false\&layout=compact)
 
 ---
 
 ## 👀 Profile Views
 
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blueviolet\&style=for-the-badge)](https://github.com/SON-jdnajda)
+[![](https://komarev.com/ghpvc/?username=SON-jdnajda\&color=blueviolet\&style=for-the-badge)](https://github.com/SON-jdnajda)
