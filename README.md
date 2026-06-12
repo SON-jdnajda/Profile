@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=87890630222346715" width="100%" height="300" />
-</p>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=87890630222346715" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <h1 align="center">Hi there, I'm Đặng Hoàng Sơn 👋</h1>
 
