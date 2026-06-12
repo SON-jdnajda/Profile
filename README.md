@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Kawaii (◕‿◕✿).gif" width="100%" height="100%" />
+  <img src="Kawaii (◕‿◕✿).gif" width="80%" height="80%" />
 </p>
 
 <h1 align="center">Hi there, I'm Đặng Hoàng Sơn 👋</h1>
