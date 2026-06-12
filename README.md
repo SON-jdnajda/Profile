@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" />
+  <img src="https://assets.pinterest.com/ext/embed.html?id=87890630222346715" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hi there, I'm Đặng Hoàng Sơn 👋</h1>
