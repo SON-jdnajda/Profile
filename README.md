@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" />
+  <img src="chuunibyou demo koi ga shitai dance GIF.gif" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hi there, I'm Đặng Hoàng Sơn 👋</h1>
