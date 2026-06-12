@@ -1,4 +1,14 @@
-# Hi there, I'm Đặng Hoàng Sơn 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" />
+</p>
+
+<h1 align="center">Hi there, I'm Đặng Hoàng Sơn 👋</h1>
+
+<p align="center">
+  <b>Developer | Full-stack Enthusiast | Cloud & DevOps Learner</b>
+</p>
+
+---
 
 ## 💫 About Me
 
@@ -15,10 +25,17 @@ I am a developer passionate about building practical, scalable, and user-friendl
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/anghoangson.279785/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-ho%C3%A0ng-s%C6%A1n-170486355/)
+<p align="left">
+  <a href="https://www.facebook.com/anghoangson.279785/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-ho%C3%A0ng-s%C6%A1n-170486355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 
 ## 💻 Tech Stack
 
